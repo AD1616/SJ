@@ -1,3 +1,6 @@
+{% include navigation.html %}
+
+
 # Welcome to SJ Tutoring
 
 - SJ Tutoring provides top quality education for kids who are in elementary school up to high achieving high schoolers. All tutoring is completely free of cost.
